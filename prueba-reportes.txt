@@ -1,0 +1,1 @@
+Cuando consulto la ruta GET /reportes, el sistema muestra todos los reportes que han sido registrados anteriormente mediante la ruta POST. Los datos se almacenan en un array llamado reportes y se devuelven en formato JSON. Cada reporte contiene un id, un tipo y una descripción.
